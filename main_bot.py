@@ -9,7 +9,7 @@ from aiogram import F
 # Включаем логирование
 logging.basicConfig(level=logging.INFO)
 
-API_TOKEN = '7457448495:AAERlTfSsuZzLaF5_M5BrwZ0Y1izaeDNaEc'
+API_TOKEN = ''
 bot = Bot(token=API_TOKEN)
 # Диспетчер
 dp = Dispatcher()
