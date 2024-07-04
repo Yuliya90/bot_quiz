@@ -10,3 +10,9 @@ bot_quiz
 
 А для просмотра своего рузультата выполни команду /stats<br>
 ![image](https://github.com/Yuliya90/bot_quiz/assets/58384833/6ff03c93-258c-4b62-aa00-6dbbb79834e6)
+
+
+
+Технологии
+aiogram — асинхронный фреймворк API Telegram Bot;
+Системный
